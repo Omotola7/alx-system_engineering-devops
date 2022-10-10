@@ -1,1 +1,1 @@
- direct
+#!/bin/bash
